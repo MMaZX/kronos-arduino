@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136558106911",
+    "project_id": "arduinokronos",
+    "storage_bucket": "arduinokronos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136558106911:android:6e35f58f13faeea758f82a",
+        "android_client_info": {
+          "package_name": "com.example.kronos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqnbZcfgLtwgAwfPpIjMdvyIdinPvby0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
